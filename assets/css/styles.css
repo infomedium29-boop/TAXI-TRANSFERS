@@ -479,3 +479,54 @@ main, .hero, .subhero, .booking-wrap, .section, .site-footer { width: 100%; max-
   .container, .narrow { padding-inline: 13px; }
   .hero h1 { font-size: 2.22rem; }
 }
+
+/* Premium centered mobile hero */
+@media (max-width: 620px) {
+  .hero-media::after {
+    background:
+      linear-gradient(180deg, rgba(7,9,12,.50) 0%, rgba(7,9,12,.68) 48%, rgba(7,9,12,.84) 100%),
+      linear-gradient(90deg, rgba(7,9,12,.22), rgba(7,9,12,.22));
+  }
+  .hero-content {
+    width: min(100%, 390px);
+    max-width: 390px;
+    margin-inline: auto;
+    padding: 64px 18px 116px;
+    text-align: center;
+  }
+  .hero h1 {
+    max-width: 355px;
+    margin-inline: auto;
+    text-wrap: balance;
+  }
+  .hero p {
+    max-width: 345px;
+    margin: 22px auto 26px;
+    text-wrap: pretty;
+  }
+  .hero-actions {
+    width: min(100%, 360px);
+    margin-inline: auto;
+  }
+  .hero-badges {
+    width: min(100%, 315px);
+    margin: 28px auto 0;
+    justify-items: center;
+  }
+  .hero-badge {
+    justify-content: center;
+  }
+}
+
+@media (max-width: 380px) {
+  .hero-content {
+    padding-inline: 16px;
+  }
+  .hero h1 {
+    max-width: 330px;
+    font-size: 2.14rem;
+  }
+  .hero p {
+    max-width: 320px;
+  }
+}
