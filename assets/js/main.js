@@ -53,6 +53,13 @@
   };
   const msg = messages[lang] || messages.en;
 
+  const siteHeader = document.querySelector(".site-header");
+  const updateFloatingHeader = () => {
+    if (siteHeader) siteHeader.classList.toggle("is-scrolled", window.scrollY > 24);
+  };
+  updateFloatingHeader();
+  window.addEventListener("scroll", updateFloatingHeader, { passive: true });
+
   const menuToggle = document.querySelector(".menu-toggle");
   const closeMenu = () => {
     document.body.classList.remove("menu-open");
