@@ -1014,3 +1014,58 @@ main, .hero, .subhero, .booking-wrap, .section, .site-footer { width: 100%; max-
 .btn[data-contact-whatsapp], .btn.whatsapp-mobile { color: #fff; background: #25D366; border-color: #25D366; box-shadow: 0 10px 26px rgba(37,211,102,.22); }
 .btn[data-contact-whatsapp]:hover, .btn.whatsapp-mobile:hover { color: #fff; background: #1fbd5a; border-color: #1fbd5a; transform: translateY(-2px); }
 .mobile-book .whatsapp-mobile { flex: 1; }
+
+/* Language selector visibility and CTA styling fix */
+.site-header .lang-button,
+.site-header.is-scrolled .lang-button {
+  color: #111;
+  border-color: transparent;
+  background: linear-gradient(135deg, var(--orange-2), var(--orange));
+  box-shadow: 0 12px 32px rgba(245,158,11,.26);
+}
+.site-header .lang-button:hover,
+.site-header.is-scrolled .lang-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 16px 38px rgba(245,158,11,.36);
+}
+.site-header .lang-menu {
+  z-index: 1010;
+  min-width: 180px;
+  overflow: hidden;
+  color: var(--ink);
+  background: #fff;
+}
+.site-header .lang-menu a,
+.site-header .lang-menu a:visited {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: var(--ink);
+  background: transparent;
+}
+.site-header .lang-menu a:hover,
+.site-header .lang-menu a.active {
+  color: var(--orange-dark);
+  background: var(--soft);
+}
+.site-header .lang-menu a strong {
+  color: inherit;
+}
+@media (max-width: 900px) {
+  .site-header .lang-button,
+  .site-header.is-scrolled .lang-button {
+    color: #111;
+    border-color: transparent;
+    background: linear-gradient(135deg, var(--orange-2), var(--orange));
+    box-shadow: 0 10px 26px rgba(245,158,11,.24);
+  }
+  .site-header .lang-menu {
+    right: -18px;
+    max-height: min(360px, calc(100dvh - 110px));
+    overflow-y: auto;
+  }
+  .site-header .lang-menu a,
+  .site-header .lang-menu a:visited {
+    color: var(--ink);
+  }
+}
