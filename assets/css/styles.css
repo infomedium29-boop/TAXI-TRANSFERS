@@ -587,3 +587,51 @@ main, .hero, .subhero, .booking-wrap, .section, .site-footer { width: 100%; max-
     max-width: 320px;
   }
 }
+
+/* iPhone / iOS Safari: prevent native date and time controls from exceeding the form width */
+@supports (-webkit-touch-callout: none) {
+  @media (max-width: 620px) {
+    .booking-form {
+      width: 100%;
+      max-width: 100%;
+      overflow: hidden;
+    }
+
+    .booking-form .field {
+      width: 100%;
+      max-width: 100%;
+      min-width: 0 !important;
+      overflow: hidden;
+    }
+
+    .booking-form input[type="date"],
+    .booking-form input[type="time"],
+    .booking-form input[type="datetime-local"] {
+      display: block;
+      box-sizing: border-box;
+      width: 100% !important;
+      max-width: 100% !important;
+      min-width: 0 !important;
+      inline-size: 100% !important;
+      max-inline-size: 100% !important;
+      min-inline-size: 0 !important;
+      font-size: 16px;
+      text-align: left;
+    }
+
+    .booking-form input[type="date"]::-webkit-date-and-time-value,
+    .booking-form input[type="time"]::-webkit-date-and-time-value,
+    .booking-form input[type="datetime-local"]::-webkit-date-and-time-value {
+      width: 100%;
+      min-width: 0;
+      text-align: left;
+    }
+
+    .booking-form input[type="date"]::-webkit-datetime-edit,
+    .booking-form input[type="time"]::-webkit-datetime-edit,
+    .booking-form input[type="datetime-local"]::-webkit-datetime-edit {
+      min-width: 0;
+      padding: 0;
+    }
+  }
+}
