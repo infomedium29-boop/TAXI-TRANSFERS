@@ -54,15 +54,22 @@
   const msg = messages[lang] || messages.en;
 
   const menuToggle = document.querySelector(".menu-toggle");
+  const closeMenu = () => {
+    document.body.classList.remove("menu-open");
+    if (menuToggle) menuToggle.setAttribute("aria-expanded", "false");
+  };
   if (menuToggle) {
     menuToggle.addEventListener("click", () => {
-      document.body.classList.toggle("menu-open");
-      menuToggle.setAttribute("aria-expanded", document.body.classList.contains("menu-open"));
+      const isOpen = document.body.classList.toggle("menu-open");
+      menuToggle.setAttribute("aria-expanded", String(isOpen));
     });
-    document.querySelectorAll(".nav a").forEach(a => a.addEventListener("click", () => {
-      document.body.classList.remove("menu-open");
-      menuToggle.setAttribute("aria-expanded", "false");
-    }));
+    document.querySelectorAll(".nav a").forEach(a => a.addEventListener("click", closeMenu));
+    document.addEventListener("keydown", event => {
+      if (event.key === "Escape") closeMenu();
+    });
+    window.addEventListener("resize", () => {
+      if (window.innerWidth > 900) closeMenu();
+    });
   }
 
   const langBox = document.querySelector(".lang");
