@@ -1005,3 +1005,12 @@ main, .hero, .subhero, .booking-wrap, .section, .site-footer { width: 100%; max-
     font-size: .84rem;
   }
 }
+
+
+/* Owner contact update: WhatsApp and quick-call controls */
+.float-btn.whatsapp-float { color: #fff; background: #25D366; box-shadow: 0 14px 35px rgba(37,211,102,.34); }
+.float-btn.whatsapp-float:hover { background: #1fbd5a; box-shadow: 0 18px 42px rgba(37,211,102,.4); }
+.float-btn.call-float { color: #111; background: var(--orange); }
+.btn[data-contact-whatsapp], .btn.whatsapp-mobile { color: #fff; background: #25D366; border-color: #25D366; box-shadow: 0 10px 26px rgba(37,211,102,.22); }
+.btn[data-contact-whatsapp]:hover, .btn.whatsapp-mobile:hover { color: #fff; background: #1fbd5a; border-color: #1fbd5a; transform: translateY(-2px); }
+.mobile-book .whatsapp-mobile { flex: 1; }

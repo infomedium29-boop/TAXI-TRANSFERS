@@ -34,4 +34,4 @@ SEO PODSTRANICE NA SVAKOM JEZIKU
 UKUPNO
 - 19 stranica po jeziku
 - 5 jezika
-- 95 lokaliziranih stranica + početni odabir jezika i 404 stranica
+- 95 lokaliziranih stranica + automatsko preusmjeravanje na hrvatsku verziju i 404 preusmjeravanje

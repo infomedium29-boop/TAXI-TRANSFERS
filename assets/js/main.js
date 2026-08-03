@@ -131,8 +131,13 @@
       else el.href = "#booking";
     });
     document.querySelectorAll("[data-contact-whatsapp]").forEach(el => {
-      if (cfg.whatsappNumber) el.href = `https://wa.me/${String(cfg.whatsappNumber).replace(/\D/g, "")}`;
-      else el.href = "#booking";
+      if (cfg.whatsappNumber) {
+        el.href = `https://wa.me/${String(cfg.whatsappNumber).replace(/\D/g, "")}`;
+        el.target = "_blank";
+        el.rel = "noopener";
+      } else {
+        el.href = "#booking";
+      }
     });
   }
   hydrateContacts();
