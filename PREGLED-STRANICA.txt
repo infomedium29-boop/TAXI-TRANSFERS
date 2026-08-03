@@ -1,0 +1,37 @@
+TAXI & TRANSFERS KRK — STRUKTURA SAJTA
+======================================
+
+JEZICI
+- Hrvatski /hr/
+- English /en/
+- Deutsch /de/
+- Slovenčina /sk/
+- Polski /pl/
+
+GLAVNE STRANICE NA SVAKOM JEZIKU
+- Početna
+- Transferi iz Zračne luke Rijeka
+- Taxi na otoku Krku
+- Privatni međugradski i međunarodni transferi
+- Destinacije
+- O nama
+- Kontakt i rezervacija
+- Politika privatnosti
+
+SEO PODSTRANICE NA SVAKOM JEZIKU
+1. Rijeka Airport Transfers – Book Now
+2. Rijeka Airport – Taxi Service
+3. Krk Transfers – Book Now
+4. Taxi Krk – 24/7 Service
+5. Valbiska Transfers – Book Now
+6. Taxi Njivice – 24/7 Service
+7. Krk Transfers – Zagreb, Pula, Venice, Trieste
+8. Taxi & Transfer Service Krk
+9. Taxi Malinska – 24/7 Service
+10. Taxi Diamond Club Malinska
+11. Taxi Krk & Transfers – Njivice, Malinska, Omišalj, Krk
+
+UKUPNO
+- 19 stranica po jeziku
+- 5 jezika
+- 95 lokaliziranih stranica + početni odabir jezika i 404 stranica
