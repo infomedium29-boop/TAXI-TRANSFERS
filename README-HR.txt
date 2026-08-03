@@ -48,3 +48,9 @@ Ako povezujete GitHub repozitorij, Cloudflare automatski objavljuje statičke da
 - zamijenite your-domain.com stvarnom domenom
 - testirajte svih 5 jezika i kontakt formu
 - po potrebi zamijenite generirane vizuale stvarnim fotografijama vozila
+
+
+AŽURIRANJE SADRŽAJA:
+- Integrirane su vlasnikove ključne riječi i sadržaj na HR/EN/DE/SK/PL.
+- Ažurirano je 11 SEO podstranica s jedinstvenim tekstom, naslovima, meta opisima i internim poveznicama.
+- Početna stranica sadrži sve dostavljene destinacije, zračne luke, mjesta na Krku i prednosti usluge.
