@@ -530,3 +530,60 @@ main, .hero, .subhero, .booking-wrap, .section, .site-footer { width: 100%; max-
     max-width: 320px;
   }
 }
+
+/* Premium centered mobile layout for all inner-page heroes */
+@media (max-width: 620px) {
+  .subhero {
+    min-height: 500px;
+    align-items: center;
+  }
+  .subhero-media::after {
+    background:
+      linear-gradient(180deg, rgba(7,9,12,.48) 0%, rgba(7,9,12,.66) 48%, rgba(7,9,12,.88) 100%),
+      linear-gradient(90deg, rgba(7,9,12,.20), rgba(7,9,12,.20));
+  }
+  .subhero-content {
+    width: min(100%, 390px);
+    max-width: 390px;
+    margin-inline: auto;
+    padding: 70px 18px 64px;
+    text-align: center;
+  }
+  .subhero h1 {
+    max-width: 355px;
+    margin-inline: auto;
+    font-size: clamp(2.15rem, 10vw, 2.9rem);
+    line-height: 1.08;
+    letter-spacing: -.035em;
+    text-wrap: balance;
+  }
+  .subhero p {
+    max-width: 345px;
+    margin: 22px auto 28px;
+    font-size: .98rem;
+    line-height: 1.62;
+    text-wrap: pretty;
+  }
+  .subhero .actions {
+    width: min(100%, 360px);
+    margin-inline: auto;
+    justify-content: center;
+  }
+  .subhero .actions .btn {
+    flex: 1 1 150px;
+    min-height: 50px;
+  }
+}
+
+@media (max-width: 380px) {
+  .subhero-content {
+    padding-inline: 16px;
+  }
+  .subhero h1 {
+    max-width: 330px;
+    font-size: 2.08rem;
+  }
+  .subhero p {
+    max-width: 320px;
+  }
+}
