@@ -1,3 +1,16 @@
+PRIORITET PODSTRANICA:
+1. Rijeka Airport Transfers - Book Now -> rijeka-airport-transfers.html
+2. Rijeka Airport – Taxi Service -> rijeka-airport-taxi.html
+3. Krk Transfers – Book Now -> krk-transfers.html
+4. Taxi Krk – 24/7 Service -> taxi-krk-24-7.html
+5. Valbiska Transfers – Book Now -> valbiska-transfers.html
+6. Taxi Njivice – 24/7 Service -> taxi-njivice.html
+7. Krk Transfers – To Zagreb, Pula, Venice, Trieste... -> krk-transfers-europe.html
+8. Taxi & Transfer Service Krk -> taxi-transfer-service-krk.html
+9. Taxi Malinska – 24/7 Service -> taxi-malinska.html
+10. Taxi Diamond Club Malinska -> taxi-diamond-club-malinska.html
+11. Taxi Krk & Transfers – Njivice, Malinska, Omišalj, Krk -> taxi-krk-njivice-malinska-omisalj.html
+
 TAXI & TRANSFERS KRK — STRUKTURA SAJTA
 ======================================
 
