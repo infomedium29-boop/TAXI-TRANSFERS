@@ -20,7 +20,7 @@ Ako nisu uneseni ni kontakt podaci, forma kopira sadržaj upita u međuspremnik.
 
 3. DOMENA I SEO
 U svim datotekama trenutačno je postavljen placeholder:
-https://your-domain.com
+https://taxitransferskrk.com
 
 Prije indeksiranja zamijenite ga stvarnom domenom u svim HTML datotekama,
 robots.txt i sitemap.xml. Najbrže je koristiti Find & Replace u VS Codeu.
@@ -45,7 +45,7 @@ Ako povezujete GitHub repozitorij, Cloudflare automatski objavljuje statičke da
 7. VAŽNO PRIJE PREDAJE KLIJENTU
 - unesite pravi broj telefona, WhatsApp i e-mail
 - unesite Web3Forms ključ ili testirajte WhatsApp/e-mail fallback
-- zamijenite your-domain.com stvarnom domenom
+- domena je postavljena na taxitransferskrk.com
 - testirajte svih 5 jezika i kontakt formu
 - po potrebi zamijenite generirane vizuale stvarnim fotografijama vozila
 

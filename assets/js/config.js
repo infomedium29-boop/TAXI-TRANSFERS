@@ -9,5 +9,5 @@ window.SITE_CONFIG = {
   whatsappNumber: "385919760938",
   email: "itaxi.krk@gmail.com",
   web3formsAccessKey: "",
-  domain: "https://your-domain.com"
+  domain: "https://taxitransferskrk.com"
 };
