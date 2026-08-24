@@ -12,7 +12,8 @@
       error: "Slanje trenutno nije uspjelo. Pokušajte ponovno ili nas kontaktirajte izravno.",
       required: "Molimo ispunite obavezna polja.",
       call: "Nazovi",
-      whatsapp: "WhatsApp"
+      whatsapp: "WhatsApp",
+      whatsappOpened: "Otvaramo WhatsApp s pripremljenim podacima rezervacije."
     },
     en: {
       missing: "Contact details have not been configured yet. Your booking summary was copied to the clipboard.",
@@ -21,7 +22,8 @@
       error: "The request could not be sent. Please try again or contact us directly.",
       required: "Please complete the required fields.",
       call: "Call",
-      whatsapp: "WhatsApp"
+      whatsapp: "WhatsApp",
+      whatsappOpened: "Opening WhatsApp with your booking details."
     },
     de: {
       missing: "Die Kontaktdaten sind noch nicht eingerichtet. Ihre Anfrage wurde in die Zwischenablage kopiert.",
@@ -30,7 +32,8 @@
       error: "Die Anfrage konnte nicht gesendet werden. Bitte versuchen Sie es erneut oder kontaktieren Sie uns direkt.",
       required: "Bitte füllen Sie alle Pflichtfelder aus.",
       call: "Anrufen",
-      whatsapp: "WhatsApp"
+      whatsapp: "WhatsApp",
+      whatsappOpened: "WhatsApp wird mit Ihren Buchungsdaten geöffnet."
     },
     sk: {
       missing: "Kontaktné údaje ešte nie sú nastavené. Súhrn objednávky bol skopírovaný do schránky.",
@@ -39,7 +42,8 @@
       error: "Požiadavku sa nepodarilo odoslať. Skúste to znova alebo nás kontaktujte priamo.",
       required: "Vyplňte, prosím, povinné polia.",
       call: "Zavolať",
-      whatsapp: "WhatsApp"
+      whatsapp: "WhatsApp",
+      whatsappOpened: "Otvárame WhatsApp s údajmi vašej rezervácie."
     },
     pl: {
       missing: "Dane kontaktowe nie zostały jeszcze skonfigurowane. Podsumowanie rezerwacji skopiowano do schowka.",
@@ -48,7 +52,8 @@
       error: "Nie udało się wysłać zapytania. Spróbuj ponownie lub skontaktuj się z nami bezpośrednio.",
       required: "Uzupełnij wymagane pola.",
       call: "Zadzwoń",
-      whatsapp: "WhatsApp"
+      whatsapp: "WhatsApp",
+      whatsappOpened: "Otwieramy WhatsApp z danymi rezerwacji."
     }
   };
   const msg = messages[lang] || messages.en;
@@ -142,6 +147,13 @@
   }
   hydrateContacts();
 
+  function isSmartphone() {
+    if (navigator.userAgentData && typeof navigator.userAgentData.mobile === "boolean") {
+      return navigator.userAgentData.mobile;
+    }
+    return /Android.*Mobile|iPhone|iPod|Windows Phone|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent || "");
+  }
+
   function buildSummary(form) {
     const fd = new FormData(form);
     const labels = {
@@ -150,6 +162,7 @@
       date: form.querySelector('[name="date"]')?.closest('.field')?.querySelector('label')?.textContent || "Date",
       time: form.querySelector('[name="time"]')?.closest('.field')?.querySelector('label')?.textContent || "Time",
       passengers: form.querySelector('[name="passengers"]')?.closest('.field')?.querySelector('label')?.textContent || "Passengers",
+      payment: form.querySelector('[name="payment"]')?.closest('.field')?.querySelector('label')?.textContent || "Payment method",
       name: form.querySelector('[name="name"]')?.closest('.field')?.querySelector('label')?.textContent || "Name",
       phone: form.querySelector('[name="phone"]')?.closest('.field')?.querySelector('label')?.textContent || "Phone",
       email: form.querySelector('[name="email"]')?.closest('.field')?.querySelector('label')?.textContent || "Email",
@@ -185,22 +198,28 @@
       if (submitButton) submitButton.disabled = true;
 
       try {
-        if (cfg.web3formsAccessKey) {
+        // On smartphones keep the existing WhatsApp booking flow.
+        if (isSmartphone() && cfg.whatsappNumber) {
+          window.open(`https://wa.me/${String(cfg.whatsappNumber).replace(/\D/g, "")}?text=${encodeURIComponent(summary)}`, "_blank", "noopener");
+          setStatus(form, msg.whatsappOpened || msg.copied, "success");
+        // On desktop / PC (and tablets) submit directly to the owner's email via Web3Forms.
+        } else if (cfg.web3formsAccessKey) {
           const data = new FormData(form);
           data.append("access_key", cfg.web3formsAccessKey);
-          data.append("subject", `${cfg.companyName || "Taxi & Transfers Krk"} — booking request`);
-          data.append("from_name", cfg.companyName || "Taxi & Transfers Krk");
+          data.append("subject", cfg.bookingEmailSubject || "Nova rezervacija – Taxi Krk");
+          data.append("from_name", cfg.bookingEmailSender || "Taxi Krk – Rezervacije");
+          data.append("booking_summary", summary);
           const response = await fetch("https://api.web3forms.com/submit", { method: "POST", body: data });
           const result = await response.json();
           if (!result.success) throw new Error("web3forms_error");
           form.reset();
           setStatus(form, msg.sent, "success");
+        } else if (cfg.email) {
+          window.location.href = `mailto:${cfg.email}?subject=${encodeURIComponent(cfg.bookingEmailSubject || "Nova rezervacija – Taxi Krk")}&body=${encodeURIComponent(summary)}`;
+          setStatus(form, msg.copied, "success");
         } else if (cfg.whatsappNumber) {
           window.open(`https://wa.me/${String(cfg.whatsappNumber).replace(/\D/g, "")}?text=${encodeURIComponent(summary)}`, "_blank", "noopener");
-          setStatus(form, msg.copied, "success");
-        } else if (cfg.email) {
-          window.location.href = `mailto:${cfg.email}?subject=${encodeURIComponent("Booking request")}&body=${encodeURIComponent(summary)}`;
-          setStatus(form, msg.copied, "success");
+          setStatus(form, msg.whatsappOpened || msg.copied, "success");
         } else {
           await navigator.clipboard.writeText(summary);
           setStatus(form, msg.missing, "success");
