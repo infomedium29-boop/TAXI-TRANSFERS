@@ -58,6 +58,45 @@
   };
   const msg = messages[lang] || messages.en;
 
+  const bookingFieldText = {
+    hr: {
+      phoneMobile: "Telefon",
+      phoneMobilePlaceholder: "Broj telefona",
+      phoneDesktop: "Telefon (uključujući pozivni broj)",
+      phoneDesktopPlaceholder: "npr. +385 91 123 4567",
+      summary: { pickup: "Mjesto preuzimanja", destination: "Odredište", date: "Datum", time: "Vrijeme", passengers: "Broj putnika", payment: "Način plaćanja", name: "Ime i prezime", phone: "Telefon", email: "E-mail", message: "Napomena" }
+    },
+    en: {
+      phoneMobile: "Phone",
+      phoneMobilePlaceholder: "Phone number",
+      phoneDesktop: "Phone (including country code)",
+      phoneDesktopPlaceholder: "e.g. +385 91 123 4567",
+      summary: { pickup: "Pickup location", destination: "Destination", date: "Date", time: "Time", passengers: "Passengers", payment: "Payment method", name: "Full name", phone: "Phone", email: "Email", message: "Message" }
+    },
+    de: {
+      phoneMobile: "Telefon",
+      phoneMobilePlaceholder: "Telefonnummer",
+      phoneDesktop: "Telefon (inkl. Ländervorwahl)",
+      phoneDesktopPlaceholder: "z. B. +385 91 123 4567",
+      summary: { pickup: "Abholort", destination: "Ziel", date: "Datum", time: "Uhrzeit", passengers: "Passagiere", payment: "Zahlungsart", name: "Vor- und Nachname", phone: "Telefon", email: "E-Mail", message: "Nachricht" }
+    },
+    sk: {
+      phoneMobile: "Telefón",
+      phoneMobilePlaceholder: "Telefónne číslo",
+      phoneDesktop: "Telefón (vrátane predvoľby krajiny)",
+      phoneDesktopPlaceholder: "napr. +385 91 123 4567",
+      summary: { pickup: "Miesto vyzdvihnutia", destination: "Cieľ", date: "Dátum", time: "Čas", passengers: "Počet cestujúcich", payment: "Spôsob platby", name: "Meno a priezvisko", phone: "Telefón", email: "E-mail", message: "Poznámka" }
+    },
+    pl: {
+      phoneMobile: "Telefon",
+      phoneMobilePlaceholder: "Numer telefonu",
+      phoneDesktop: "Telefon (z numerem kierunkowym kraju)",
+      phoneDesktopPlaceholder: "np. +385 91 123 4567",
+      summary: { pickup: "Miejsce odbioru", destination: "Miejsce docelowe", date: "Data", time: "Godzina", passengers: "Liczba pasażerów", payment: "Metoda płatności", name: "Imię i nazwisko", phone: "Telefon", email: "E-mail", message: "Uwagi" }
+    }
+  };
+  const fieldText = bookingFieldText[lang] || bookingFieldText.en;
+
   const siteHeader = document.querySelector(".site-header");
   const updateFloatingHeader = () => {
     if (siteHeader) siteHeader.classList.toggle("is-scrolled", window.scrollY > 24);
@@ -156,22 +195,11 @@
 
   function buildSummary(form) {
     const fd = new FormData(form);
-    const labels = {
-      pickup: form.querySelector('[name="pickup"]')?.closest('.field')?.querySelector('label')?.textContent || "Pickup",
-      destination: form.querySelector('[name="destination"]')?.closest('.field')?.querySelector('label')?.textContent || "Destination",
-      date: form.querySelector('[name="date"]')?.closest('.field')?.querySelector('label')?.textContent || "Date",
-      time: form.querySelector('[name="time"]')?.closest('.field')?.querySelector('label')?.textContent || "Time",
-      passengers: form.querySelector('[name="passengers"]')?.closest('.field')?.querySelector('label')?.textContent || "Passengers",
-      payment: form.querySelector('[name="payment"]')?.closest('.field')?.querySelector('label')?.textContent || "Payment method",
-      name: form.querySelector('[name="name"]')?.closest('.field')?.querySelector('label')?.textContent || "Name",
-      phone: form.querySelector('[name="phone"]')?.closest('.field')?.querySelector('label')?.textContent || "Phone",
-      email: form.querySelector('[name="email"]')?.closest('.field')?.querySelector('label')?.textContent || "Email",
-      message: form.querySelector('[name="message"]')?.closest('.field')?.querySelector('label')?.textContent || "Message"
-    };
+    const labels = fieldText.summary;
     const lines = [`${cfg.companyName || "Taxi & Transfers Krk"} — booking request`];
-    Object.keys(labels).forEach(key => {
+    ["pickup", "destination", "date", "time", "passengers", "payment", "name", "phone", "email", "message"].forEach(key => {
       const value = fd.get(key);
-      if (value) lines.push(`${labels[key]}: ${value}`);
+      if (value) lines.push(`${labels[key] || key}: ${value}`);
     });
     return lines.join("\n");
   }
@@ -183,9 +211,32 @@
     status.className = `form-status show ${type}`;
   }
 
+  const smartphoneBooking = isSmartphone();
+
   document.querySelectorAll("form[data-booking-form]").forEach(form => {
     const dateInput = form.querySelector('input[type="date"]');
     if (dateInput) dateInput.min = new Date().toISOString().slice(0,10);
+
+    const emailField = form.querySelector(".desktop-email-field");
+    const emailInput = emailField?.querySelector('input[name="email"]');
+    if (emailField && emailInput) {
+      if (smartphoneBooking) {
+        emailField.hidden = true;
+        emailInput.required = false;
+        emailInput.disabled = true;
+      } else {
+        emailField.hidden = false;
+        emailInput.disabled = false;
+        emailInput.required = true;
+      }
+    }
+
+    const phoneInput = form.querySelector('input[name="phone"]');
+    const phoneLabel = phoneInput?.closest('.field')?.querySelector('label');
+    if (phoneInput && phoneLabel) {
+      phoneLabel.textContent = smartphoneBooking ? fieldText.phoneMobile : fieldText.phoneDesktop;
+      phoneInput.placeholder = smartphoneBooking ? fieldText.phoneMobilePlaceholder : fieldText.phoneDesktopPlaceholder;
+    }
 
     form.addEventListener("submit", async event => {
       event.preventDefault();
@@ -199,7 +250,7 @@
 
       try {
         // On smartphones keep the existing WhatsApp booking flow.
-        if (isSmartphone() && cfg.whatsappNumber) {
+        if (smartphoneBooking && cfg.whatsappNumber) {
           window.open(`https://wa.me/${String(cfg.whatsappNumber).replace(/\D/g, "")}?text=${encodeURIComponent(summary)}`, "_blank", "noopener");
           setStatus(form, msg.whatsappOpened || msg.copied, "success");
         // On desktop / PC (and tablets) submit directly to the owner's email via Web3Forms.
