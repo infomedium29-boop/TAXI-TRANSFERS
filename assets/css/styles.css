@@ -1069,3 +1069,9 @@ main, .hero, .subhero, .booking-wrap, .section, .site-footer { width: 100%; max-
     color: var(--ink);
   }
 }
+
+
+/* Booking note field: aligns with submit button on desktop */
+@media (min-width: 901px) {
+  .booking-form .booking-note-field { grid-column: span 9; }
+}
