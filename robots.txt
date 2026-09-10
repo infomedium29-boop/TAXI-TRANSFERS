@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://taxitransferskrk.com/sitemap.txt
+Sitemap: https://taxitransferskrk.com/sitemap.xml
