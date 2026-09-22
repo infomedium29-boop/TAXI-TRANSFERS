@@ -1,0 +1,9 @@
+sifra,naziv_usluge,broj_putnika,maloprodajna_cijena,valuta,jedinica,posebni_oblik_prodaje,sidrena_cijena,datum_sidrene_cijene,vrijedi_od,napomena
+TX-12-START,Taxi prijevoz 1–2 osobe – start,1–2,10.00,EUR,vožnja,ne,10.00,2026-09-10,2026-09-22,Startna cijena
+TX-12-KM,Taxi prijevoz 1–2 osobe – kilometar,1–2,2.00,EUR,km,ne,2.00,2026-09-10,2026-09-22,Cijena po prijeđenom kilometru
+TX-35-START,Taxi prijevoz 3–5 osoba – start,3–5,10.00,EUR,vožnja,ne,10.00,2026-09-10,2026-09-22,Startna cijena
+TX-35-KM,Taxi prijevoz 3–5 osoba – kilometar,3–5,3.00,EUR,km,ne,3.00,2026-09-10,2026-09-22,Cijena po prijeđenom kilometru
+TX-68-START,Taxi prijevoz 6–8 osoba – start,6–8,10.00,EUR,vožnja,ne,10.00,2026-09-10,2026-09-22,Startna cijena
+TX-68-KM,Taxi prijevoz 6–8 osoba – kilometar,6–8,4.00,EUR,km,ne,4.00,2026-09-10,2026-09-22,Cijena po prijeđenom kilometru
+WAIT-60,Čekanje – 60 minuta,,35.00,EUR,sat,ne,35.00,2026-09-10,2026-09-22,Cijena jednog sata čekanja
+BAG-1,Prtljaga – jedan kofer,,2.00,EUR,kofer,ne,2.00,2026-09-10,2026-09-22,Naknada po koferu

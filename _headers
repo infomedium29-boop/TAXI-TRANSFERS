@@ -33,3 +33,23 @@
   Referrer-Policy: strict-origin-when-cross-origin
   Permissions-Policy: camera=(), microphone=(), geolocation=()
   X-Frame-Options: SAMEORIGIN
+
+/cjenici/*.csv
+  Content-Type: text/csv; charset=UTF-8
+  Cache-Control: public, max-age=0, must-revalidate
+  Access-Control-Allow-Origin: *
+
+/cjenici/*.xml
+  Content-Type: application/xml; charset=UTF-8
+  Cache-Control: public, max-age=0, must-revalidate
+  Access-Control-Allow-Origin: *
+
+/cjenici/arhiva/*.csv
+  Content-Type: text/csv; charset=UTF-8
+  Cache-Control: public, max-age=0, must-revalidate
+  Access-Control-Allow-Origin: *
+
+/cjenici/arhiva/*.xml
+  Content-Type: application/xml; charset=UTF-8
+  Cache-Control: public, max-age=0, must-revalidate
+  Access-Control-Allow-Origin: *

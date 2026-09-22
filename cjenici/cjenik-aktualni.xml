@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<digitalni_cjenik verzija="1.0">
+  <meta>
+    <naziv>Taxi &amp; Transfers Krk</naziv>
+    <web>https://taxitransferskrk.com/</web>
+    <valuta>EUR</valuta>
+    <vrijedi_od>2026-09-22</vrijedi_od>
+    <datum_sidrene_cijene>2026-09-10</datum_sidrene_cijene>
+  </meta>
+  <usluge>
+    <usluga sifra="TX-12-START">
+      <naziv_usluge>Taxi prijevoz 1–2 osobe – start</naziv_usluge>
+      <broj_putnika>1–2</broj_putnika>
+      <maloprodajna_cijena>10.00</maloprodajna_cijena>
+      <valuta>EUR</valuta>
+      <jedinica>vožnja</jedinica>
+      <posebni_oblik_prodaje>ne</posebni_oblik_prodaje>
+      <sidrena_cijena>10.00</sidrena_cijena>
+      <datum_sidrene_cijene>2026-09-10</datum_sidrene_cijene>
+      <vrijedi_od>2026-09-22</vrijedi_od>
+      <napomena>Startna cijena</napomena>
+    </usluga>
+    <usluga sifra="TX-12-KM">
+      <naziv_usluge>Taxi prijevoz 1–2 osobe – kilometar</naziv_usluge>
+      <broj_putnika>1–2</broj_putnika>
+      <maloprodajna_cijena>2.00</maloprodajna_cijena>
+      <valuta>EUR</valuta>
+      <jedinica>km</jedinica>
+      <posebni_oblik_prodaje>ne</posebni_oblik_prodaje>
+      <sidrena_cijena>2.00</sidrena_cijena>
+      <datum_sidrene_cijene>2026-09-10</datum_sidrene_cijene>
+      <vrijedi_od>2026-09-22</vrijedi_od>
+      <napomena>Cijena po prijeđenom kilometru</napomena>
+    </usluga>
+    <usluga sifra="TX-35-START">
+      <naziv_usluge>Taxi prijevoz 3–5 osoba – start</naziv_usluge>
+      <broj_putnika>3–5</broj_putnika>
+      <maloprodajna_cijena>10.00</maloprodajna_cijena>
+      <valuta>EUR</valuta>
+      <jedinica>vožnja</jedinica>
+      <posebni_oblik_prodaje>ne</posebni_oblik_prodaje>
+      <sidrena_cijena>10.00</sidrena_cijena>
+      <datum_sidrene_cijene>2026-09-10</datum_sidrene_cijene>
+      <vrijedi_od>2026-09-22</vrijedi_od>
+      <napomena>Startna cijena</napomena>
+    </usluga>
+    <usluga sifra="TX-35-KM">
+      <naziv_usluge>Taxi prijevoz 3–5 osoba – kilometar</naziv_usluge>
+      <broj_putnika>3–5</broj_putnika>
+      <maloprodajna_cijena>3.00</maloprodajna_cijena>
+      <valuta>EUR</valuta>
+      <jedinica>km</jedinica>
+      <posebni_oblik_prodaje>ne</posebni_oblik_prodaje>
+      <sidrena_cijena>3.00</sidrena_cijena>
+      <datum_sidrene_cijene>2026-09-10</datum_sidrene_cijene>
+      <vrijedi_od>2026-09-22</vrijedi_od>
+      <napomena>Cijena po prijeđenom kilometru</napomena>
+    </usluga>
+    <usluga sifra="TX-68-START">
+      <naziv_usluge>Taxi prijevoz 6–8 osoba – start</naziv_usluge>
+      <broj_putnika>6–8</broj_putnika>
+      <maloprodajna_cijena>10.00</maloprodajna_cijena>
+      <valuta>EUR</valuta>
+      <jedinica>vožnja</jedinica>
+      <posebni_oblik_prodaje>ne</posebni_oblik_prodaje>
+      <sidrena_cijena>10.00</sidrena_cijena>
+      <datum_sidrene_cijene>2026-09-10</datum_sidrene_cijene>
+      <vrijedi_od>2026-09-22</vrijedi_od>
+      <napomena>Startna cijena</napomena>
+    </usluga>
+    <usluga sifra="TX-68-KM">
+      <naziv_usluge>Taxi prijevoz 6–8 osoba – kilometar</naziv_usluge>
+      <broj_putnika>6–8</broj_putnika>
+      <maloprodajna_cijena>4.00</maloprodajna_cijena>
+      <valuta>EUR</valuta>
+      <jedinica>km</jedinica>
+      <posebni_oblik_prodaje>ne</posebni_oblik_prodaje>
+      <sidrena_cijena>4.00</sidrena_cijena>
+      <datum_sidrene_cijene>2026-09-10</datum_sidrene_cijene>
+      <vrijedi_od>2026-09-22</vrijedi_od>
+      <napomena>Cijena po prijeđenom kilometru</napomena>
+    </usluga>
+    <usluga sifra="WAIT-60">
+      <naziv_usluge>Čekanje – 60 minuta</naziv_usluge>
+      <broj_putnika/>
+      <maloprodajna_cijena>35.00</maloprodajna_cijena>
+      <valuta>EUR</valuta>
+      <jedinica>sat</jedinica>
+      <posebni_oblik_prodaje>ne</posebni_oblik_prodaje>
+      <sidrena_cijena>35.00</sidrena_cijena>
+      <datum_sidrene_cijene>2026-09-10</datum_sidrene_cijene>
+      <vrijedi_od>2026-09-22</vrijedi_od>
+      <napomena>Cijena jednog sata čekanja</napomena>
+    </usluga>
+    <usluga sifra="BAG-1">
+      <naziv_usluge>Prtljaga – jedan kofer</naziv_usluge>
+      <broj_putnika/>
+      <maloprodajna_cijena>2.00</maloprodajna_cijena>
+      <valuta>EUR</valuta>
+      <jedinica>kofer</jedinica>
+      <posebni_oblik_prodaje>ne</posebni_oblik_prodaje>
+      <sidrena_cijena>2.00</sidrena_cijena>
+      <datum_sidrene_cijene>2026-09-10</datum_sidrene_cijene>
+      <vrijedi_od>2026-09-22</vrijedi_od>
+      <napomena>Naknada po koferu</napomena>
+    </usluga>
+  </usluge>
+</digitalni_cjenik>

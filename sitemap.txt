@@ -93,3 +93,8 @@ https://taxitransferskrk.com/en/valbiska-transfers
 https://taxitransferskrk.com/de/valbiska-transfers
 https://taxitransferskrk.com/sk/valbiska-transfers
 https://taxitransferskrk.com/pl/valbiska-transfers
+https://taxitransferskrk.com/hr/price-list
+https://taxitransferskrk.com/en/price-list
+https://taxitransferskrk.com/de/price-list
+https://taxitransferskrk.com/sk/price-list
+https://taxitransferskrk.com/pl/price-list

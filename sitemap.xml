@@ -950,4 +950,54 @@
     <xhtml:link rel="alternate" hreflang="pl" href="https://taxitransferskrk.com/pl/valbiska-transfers" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://taxitransferskrk.com/hr/valbiska-transfers" />
   </url>
+  <url>
+    <loc>https://taxitransferskrk.com/hr/price-list</loc>
+    <lastmod>2026-09-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/price-list" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/price-list" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://taxitransferskrk.com/de/price-list" />
+    <xhtml:link rel="alternate" hreflang="sk" href="https://taxitransferskrk.com/sk/price-list" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://taxitransferskrk.com/pl/price-list" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://taxitransferskrk.com/hr/price-list" />
+  </url>
+  <url>
+    <loc>https://taxitransferskrk.com/en/price-list</loc>
+    <lastmod>2026-09-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/price-list" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/price-list" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://taxitransferskrk.com/de/price-list" />
+    <xhtml:link rel="alternate" hreflang="sk" href="https://taxitransferskrk.com/sk/price-list" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://taxitransferskrk.com/pl/price-list" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://taxitransferskrk.com/hr/price-list" />
+  </url>
+  <url>
+    <loc>https://taxitransferskrk.com/de/price-list</loc>
+    <lastmod>2026-09-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/price-list" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/price-list" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://taxitransferskrk.com/de/price-list" />
+    <xhtml:link rel="alternate" hreflang="sk" href="https://taxitransferskrk.com/sk/price-list" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://taxitransferskrk.com/pl/price-list" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://taxitransferskrk.com/hr/price-list" />
+  </url>
+  <url>
+    <loc>https://taxitransferskrk.com/sk/price-list</loc>
+    <lastmod>2026-09-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/price-list" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/price-list" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://taxitransferskrk.com/de/price-list" />
+    <xhtml:link rel="alternate" hreflang="sk" href="https://taxitransferskrk.com/sk/price-list" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://taxitransferskrk.com/pl/price-list" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://taxitransferskrk.com/hr/price-list" />
+  </url>
+  <url>
+    <loc>https://taxitransferskrk.com/pl/price-list</loc>
+    <lastmod>2026-09-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/price-list" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/price-list" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://taxitransferskrk.com/de/price-list" />
+    <xhtml:link rel="alternate" hreflang="sk" href="https://taxitransferskrk.com/sk/price-list" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://taxitransferskrk.com/pl/price-list" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://taxitransferskrk.com/hr/price-list" />
+  </url>
 </urlset>
