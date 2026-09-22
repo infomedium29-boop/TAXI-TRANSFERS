@@ -1,0 +1,1 @@
+SERP thumbnail SEO update: set logo-taxi-transfers-new.avif as preferred image across OG tags, WebPage primaryImageOfPage, TaxiService image, Organization logo, twitter/image meta, image_src, itemprop=image, and sitemap image entries.

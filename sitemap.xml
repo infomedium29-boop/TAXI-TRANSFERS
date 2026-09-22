@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://taxitransferskrk.com/hr/about</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/about" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/about" />
@@ -12,6 +13,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/en/about</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/about" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/about" />
@@ -22,6 +24,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/de/about</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/about" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/about" />
@@ -32,6 +35,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/sk/about</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/about" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/about" />
@@ -42,6 +46,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/pl/about</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/about" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/about" />
@@ -52,6 +57,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/hr/airport-transfers</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/airport-transfers" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/airport-transfers" />
@@ -62,6 +68,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/en/airport-transfers</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/airport-transfers" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/airport-transfers" />
@@ -72,6 +79,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/de/airport-transfers</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/airport-transfers" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/airport-transfers" />
@@ -82,6 +90,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/sk/airport-transfers</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/airport-transfers" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/airport-transfers" />
@@ -92,6 +101,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/pl/airport-transfers</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/airport-transfers" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/airport-transfers" />
@@ -102,6 +112,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/hr/contact</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/contact" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/contact" />
@@ -112,6 +123,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/en/contact</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/contact" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/contact" />
@@ -122,6 +134,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/de/contact</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/contact" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/contact" />
@@ -132,6 +145,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/sk/contact</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/contact" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/contact" />
@@ -142,6 +156,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/pl/contact</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/contact" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/contact" />
@@ -152,6 +167,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/hr/destinations</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/destinations" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/destinations" />
@@ -162,6 +178,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/en/destinations</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/destinations" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/destinations" />
@@ -172,6 +189,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/de/destinations</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/destinations" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/destinations" />
@@ -182,6 +200,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/sk/destinations</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/destinations" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/destinations" />
@@ -192,6 +211,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/pl/destinations</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/destinations" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/destinations" />
@@ -202,6 +222,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/hr/</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/" />
@@ -212,6 +233,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/en/</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/" />
@@ -222,6 +244,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/de/</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/" />
@@ -232,6 +255,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/sk/</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/" />
@@ -242,6 +266,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/pl/</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/" />
@@ -252,6 +277,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/hr/krk-transfers-europe</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/krk-transfers-europe" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/krk-transfers-europe" />
@@ -262,6 +288,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/en/krk-transfers-europe</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/krk-transfers-europe" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/krk-transfers-europe" />
@@ -272,6 +299,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/de/krk-transfers-europe</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/krk-transfers-europe" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/krk-transfers-europe" />
@@ -282,6 +310,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/sk/krk-transfers-europe</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/krk-transfers-europe" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/krk-transfers-europe" />
@@ -292,6 +321,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/pl/krk-transfers-europe</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/krk-transfers-europe" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/krk-transfers-europe" />
@@ -302,6 +332,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/hr/krk-transfers</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/krk-transfers" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/krk-transfers" />
@@ -312,6 +343,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/en/krk-transfers</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/krk-transfers" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/krk-transfers" />
@@ -322,6 +354,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/de/krk-transfers</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/krk-transfers" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/krk-transfers" />
@@ -332,6 +365,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/sk/krk-transfers</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/krk-transfers" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/krk-transfers" />
@@ -342,6 +376,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/pl/krk-transfers</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/krk-transfers" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/krk-transfers" />
@@ -352,6 +387,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/hr/long-distance-transfers</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/long-distance-transfers" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/long-distance-transfers" />
@@ -362,6 +398,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/en/long-distance-transfers</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/long-distance-transfers" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/long-distance-transfers" />
@@ -372,6 +409,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/de/long-distance-transfers</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/long-distance-transfers" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/long-distance-transfers" />
@@ -382,6 +420,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/sk/long-distance-transfers</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/long-distance-transfers" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/long-distance-transfers" />
@@ -392,6 +431,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/pl/long-distance-transfers</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/long-distance-transfers" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/long-distance-transfers" />
@@ -402,6 +442,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/hr/privacy-policy</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/privacy-policy" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/privacy-policy" />
@@ -412,6 +453,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/en/privacy-policy</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/privacy-policy" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/privacy-policy" />
@@ -422,6 +464,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/de/privacy-policy</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/privacy-policy" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/privacy-policy" />
@@ -432,6 +475,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/sk/privacy-policy</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/privacy-policy" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/privacy-policy" />
@@ -442,6 +486,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/pl/privacy-policy</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/privacy-policy" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/privacy-policy" />
@@ -452,6 +497,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/hr/rijeka-airport-taxi</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/rijeka-airport-taxi" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/rijeka-airport-taxi" />
@@ -462,6 +508,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/en/rijeka-airport-taxi</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/rijeka-airport-taxi" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/rijeka-airport-taxi" />
@@ -472,6 +519,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/de/rijeka-airport-taxi</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/rijeka-airport-taxi" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/rijeka-airport-taxi" />
@@ -482,6 +530,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/sk/rijeka-airport-taxi</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/rijeka-airport-taxi" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/rijeka-airport-taxi" />
@@ -492,6 +541,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/pl/rijeka-airport-taxi</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/rijeka-airport-taxi" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/rijeka-airport-taxi" />
@@ -502,6 +552,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/hr/rijeka-airport-transfers</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/rijeka-airport-transfers" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/rijeka-airport-transfers" />
@@ -512,6 +563,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/en/rijeka-airport-transfers</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/rijeka-airport-transfers" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/rijeka-airport-transfers" />
@@ -522,6 +574,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/de/rijeka-airport-transfers</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/rijeka-airport-transfers" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/rijeka-airport-transfers" />
@@ -532,6 +585,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/sk/rijeka-airport-transfers</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/rijeka-airport-transfers" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/rijeka-airport-transfers" />
@@ -542,6 +596,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/pl/rijeka-airport-transfers</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/rijeka-airport-transfers" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/rijeka-airport-transfers" />
@@ -552,6 +607,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/hr/taxi-diamond-club-malinska</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/taxi-diamond-club-malinska" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/taxi-diamond-club-malinska" />
@@ -562,6 +618,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/en/taxi-diamond-club-malinska</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/taxi-diamond-club-malinska" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/taxi-diamond-club-malinska" />
@@ -572,6 +629,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/de/taxi-diamond-club-malinska</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/taxi-diamond-club-malinska" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/taxi-diamond-club-malinska" />
@@ -582,6 +640,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/sk/taxi-diamond-club-malinska</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/taxi-diamond-club-malinska" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/taxi-diamond-club-malinska" />
@@ -592,6 +651,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/pl/taxi-diamond-club-malinska</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/taxi-diamond-club-malinska" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/taxi-diamond-club-malinska" />
@@ -602,6 +662,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/hr/taxi-krk-24-7</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/taxi-krk-24-7" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/taxi-krk-24-7" />
@@ -612,6 +673,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/en/taxi-krk-24-7</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/taxi-krk-24-7" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/taxi-krk-24-7" />
@@ -622,6 +684,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/de/taxi-krk-24-7</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/taxi-krk-24-7" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/taxi-krk-24-7" />
@@ -632,6 +695,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/sk/taxi-krk-24-7</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/taxi-krk-24-7" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/taxi-krk-24-7" />
@@ -642,6 +706,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/pl/taxi-krk-24-7</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/taxi-krk-24-7" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/taxi-krk-24-7" />
@@ -652,6 +717,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/hr/taxi-krk-njivice-malinska-omisalj</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/taxi-krk-njivice-malinska-omisalj" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/taxi-krk-njivice-malinska-omisalj" />
@@ -662,6 +728,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/en/taxi-krk-njivice-malinska-omisalj</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/taxi-krk-njivice-malinska-omisalj" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/taxi-krk-njivice-malinska-omisalj" />
@@ -672,6 +739,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/de/taxi-krk-njivice-malinska-omisalj</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/taxi-krk-njivice-malinska-omisalj" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/taxi-krk-njivice-malinska-omisalj" />
@@ -682,6 +750,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/sk/taxi-krk-njivice-malinska-omisalj</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/taxi-krk-njivice-malinska-omisalj" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/taxi-krk-njivice-malinska-omisalj" />
@@ -692,6 +761,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/pl/taxi-krk-njivice-malinska-omisalj</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/taxi-krk-njivice-malinska-omisalj" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/taxi-krk-njivice-malinska-omisalj" />
@@ -702,6 +772,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/hr/taxi-krk</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/taxi-krk" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/taxi-krk" />
@@ -712,6 +783,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/en/taxi-krk</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/taxi-krk" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/taxi-krk" />
@@ -722,6 +794,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/de/taxi-krk</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/taxi-krk" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/taxi-krk" />
@@ -732,6 +805,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/sk/taxi-krk</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/taxi-krk" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/taxi-krk" />
@@ -742,6 +816,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/pl/taxi-krk</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/taxi-krk" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/taxi-krk" />
@@ -752,6 +827,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/hr/taxi-malinska</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/taxi-malinska" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/taxi-malinska" />
@@ -762,6 +838,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/en/taxi-malinska</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/taxi-malinska" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/taxi-malinska" />
@@ -772,6 +849,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/de/taxi-malinska</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/taxi-malinska" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/taxi-malinska" />
@@ -782,6 +860,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/sk/taxi-malinska</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/taxi-malinska" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/taxi-malinska" />
@@ -792,6 +871,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/pl/taxi-malinska</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/taxi-malinska" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/taxi-malinska" />
@@ -802,6 +882,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/hr/taxi-njivice</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/taxi-njivice" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/taxi-njivice" />
@@ -812,6 +893,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/en/taxi-njivice</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/taxi-njivice" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/taxi-njivice" />
@@ -822,6 +904,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/de/taxi-njivice</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/taxi-njivice" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/taxi-njivice" />
@@ -832,6 +915,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/sk/taxi-njivice</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/taxi-njivice" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/taxi-njivice" />
@@ -842,6 +926,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/pl/taxi-njivice</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/taxi-njivice" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/taxi-njivice" />
@@ -852,6 +937,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/hr/taxi-transfer-service-krk</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/taxi-transfer-service-krk" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/taxi-transfer-service-krk" />
@@ -862,6 +948,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/en/taxi-transfer-service-krk</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/taxi-transfer-service-krk" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/taxi-transfer-service-krk" />
@@ -872,6 +959,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/de/taxi-transfer-service-krk</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/taxi-transfer-service-krk" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/taxi-transfer-service-krk" />
@@ -882,6 +970,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/sk/taxi-transfer-service-krk</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/taxi-transfer-service-krk" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/taxi-transfer-service-krk" />
@@ -892,6 +981,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/pl/taxi-transfer-service-krk</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/taxi-transfer-service-krk" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/taxi-transfer-service-krk" />
@@ -902,6 +992,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/hr/valbiska-transfers</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/valbiska-transfers" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/valbiska-transfers" />
@@ -912,6 +1003,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/en/valbiska-transfers</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/valbiska-transfers" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/valbiska-transfers" />
@@ -922,6 +1014,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/de/valbiska-transfers</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/valbiska-transfers" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/valbiska-transfers" />
@@ -932,6 +1025,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/sk/valbiska-transfers</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/valbiska-transfers" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/valbiska-transfers" />
@@ -942,6 +1036,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/pl/valbiska-transfers</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-10</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/valbiska-transfers" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/valbiska-transfers" />
@@ -952,6 +1047,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/hr/price-list</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-22</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/price-list" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/price-list" />
@@ -962,6 +1058,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/en/price-list</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-22</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/price-list" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/price-list" />
@@ -972,6 +1069,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/de/price-list</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-22</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/price-list" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/price-list" />
@@ -982,6 +1080,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/sk/price-list</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-22</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/price-list" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/price-list" />
@@ -992,6 +1091,7 @@
   </url>
   <url>
     <loc>https://taxitransferskrk.com/pl/price-list</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc></image:image>
     <lastmod>2026-09-22</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/price-list" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/price-list" />
