@@ -36,20 +36,24 @@
 
 /cjenici/*.csv
   Content-Type: text/csv; charset=UTF-8
+  X-Robots-Tag: noindex, follow
   Cache-Control: public, max-age=0, must-revalidate
   Access-Control-Allow-Origin: *
 
 /cjenici/*.xml
   Content-Type: application/xml; charset=UTF-8
+  X-Robots-Tag: noindex, follow
   Cache-Control: public, max-age=0, must-revalidate
   Access-Control-Allow-Origin: *
 
 /cjenici/arhiva/*.csv
   Content-Type: text/csv; charset=UTF-8
+  X-Robots-Tag: noindex, follow
   Cache-Control: public, max-age=0, must-revalidate
   Access-Control-Allow-Origin: *
 
 /cjenici/arhiva/*.xml
   Content-Type: application/xml; charset=UTF-8
+  X-Robots-Tag: noindex, follow
   Cache-Control: public, max-age=0, must-revalidate
   Access-Control-Allow-Origin: *
