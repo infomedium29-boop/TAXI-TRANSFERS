@@ -98,3 +98,8 @@ https://taxitransferskrk.com/en/price-list
 https://taxitransferskrk.com/de/price-list
 https://taxitransferskrk.com/sk/price-list
 https://taxitransferskrk.com/pl/price-list
+https://taxitransferskrk.com/hr/blog
+https://taxitransferskrk.com/en/blog
+https://taxitransferskrk.com/de/blog
+https://taxitransferskrk.com/sk/blog
+https://taxitransferskrk.com/pl/blog

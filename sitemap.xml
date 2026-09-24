@@ -1100,4 +1100,59 @@
     <xhtml:link rel="alternate" hreflang="pl" href="https://taxitransferskrk.com/pl/price-list" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://taxitransferskrk.com/hr/price-list" />
   </url>
+  <url>
+    <loc>https://taxitransferskrk.com/hr/blog</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/destinations-krk.avif</image:loc></image:image>
+    <lastmod>2026-09-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/blog" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/blog" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://taxitransferskrk.com/de/blog" />
+    <xhtml:link rel="alternate" hreflang="sk" href="https://taxitransferskrk.com/sk/blog" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://taxitransferskrk.com/pl/blog" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://taxitransferskrk.com/hr/blog" />
+  </url>
+  <url>
+    <loc>https://taxitransferskrk.com/en/blog</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/destinations-krk.avif</image:loc></image:image>
+    <lastmod>2026-09-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/blog" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/blog" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://taxitransferskrk.com/de/blog" />
+    <xhtml:link rel="alternate" hreflang="sk" href="https://taxitransferskrk.com/sk/blog" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://taxitransferskrk.com/pl/blog" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://taxitransferskrk.com/hr/blog" />
+  </url>
+  <url>
+    <loc>https://taxitransferskrk.com/de/blog</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/destinations-krk.avif</image:loc></image:image>
+    <lastmod>2026-09-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/blog" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/blog" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://taxitransferskrk.com/de/blog" />
+    <xhtml:link rel="alternate" hreflang="sk" href="https://taxitransferskrk.com/sk/blog" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://taxitransferskrk.com/pl/blog" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://taxitransferskrk.com/hr/blog" />
+  </url>
+  <url>
+    <loc>https://taxitransferskrk.com/sk/blog</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/destinations-krk.avif</image:loc></image:image>
+    <lastmod>2026-09-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/blog" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/blog" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://taxitransferskrk.com/de/blog" />
+    <xhtml:link rel="alternate" hreflang="sk" href="https://taxitransferskrk.com/sk/blog" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://taxitransferskrk.com/pl/blog" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://taxitransferskrk.com/hr/blog" />
+  </url>
+  <url>
+    <loc>https://taxitransferskrk.com/pl/blog</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/destinations-krk.avif</image:loc></image:image>
+    <lastmod>2026-09-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/blog" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/blog" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://taxitransferskrk.com/de/blog" />
+    <xhtml:link rel="alternate" hreflang="sk" href="https://taxitransferskrk.com/sk/blog" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://taxitransferskrk.com/pl/blog" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://taxitransferskrk.com/hr/blog" />
+  </url>
 </urlset>
