@@ -1304,3 +1304,10 @@ main, .hero, .subhero, .booking-wrap, .section, .site-footer { width: 100%; max-
 .seo-route-links .card h3 a { color: inherit; text-decoration: none; }
 .seo-route-links .card h3 a:hover { text-decoration: underline; text-underline-offset: 4px; }
 .seo-route-links .card p { margin-bottom: 0; }
+
+
+/* Direct booking anchor: keep the form visible below the fixed header */
+#booking-form { scroll-margin-top: 110px; }
+@media (max-width: 760px) {
+  #booking-form { scroll-margin-top: 94px; }
+}
