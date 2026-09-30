@@ -70,7 +70,7 @@
     <image:image>
       <image:loc>https://taxitransferskrk.com/assets/images/logo-taxi-transfers-new.avif</image:loc>
     </image:image>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-30</lastmod>
     <xhtml:link rel="alternate" hreflang="hr" href="https://taxitransferskrk.com/hr/blog" />
     <xhtml:link rel="alternate" hreflang="en" href="https://taxitransferskrk.com/en/blog" />
     <xhtml:link rel="alternate" hreflang="de" href="https://taxitransferskrk.com/de/blog" />
@@ -1234,5 +1234,30 @@
     <xhtml:link attrs="{'rel': 'alternate', 'hreflang': 'sk', 'href': 'https://taxitransferskrk.com/sk/taxi-klimno'}" />
     <xhtml:link attrs="{'rel': 'alternate', 'hreflang': 'pl', 'href': 'https://taxitransferskrk.com/pl/taxi-klimno'}" />
     <xhtml:link attrs="{'rel': 'alternate', 'hreflang': 'x-default', 'href': 'https://taxitransferskrk.com/hr/taxi-klimno'}" />
+  </url>
+  <url>
+    <loc>https://taxitransferskrk.com/hr/blog/medjugradski-transferi-sa-krka-zagreb-pula-rijeka</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/long-distance-transfer.avif</image:loc></image:image>
+    <lastmod>2026-09-30</lastmod>
+  </url>
+  <url>
+    <loc>https://taxitransferskrk.com/hr/blog/taxi-transfer-krk-zagreb-zracna-luka</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/professional-chauffeur.avif</image:loc></image:image>
+    <lastmod>2026-09-30</lastmod>
+  </url>
+  <url>
+    <loc>https://taxitransferskrk.com/hr/blog/taxi-transfer-krk-venecija-zracna-luka</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/vehicle-interior.avif</image:loc></image:image>
+    <lastmod>2026-09-30</lastmod>
+  </url>
+  <url>
+    <loc>https://taxitransferskrk.com/hr/blog/taxi-transfer-krk-trst-zracna-luka</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/krk-island-transfer.avif</image:loc></image:image>
+    <lastmod>2026-09-30</lastmod>
+  </url>
+  <url>
+    <loc>https://taxitransferskrk.com/hr/blog/taxi-i-transferi-sa-krka</loc>
+    <image:image><image:loc>https://taxitransferskrk.com/assets/images/taxi-krk-local.avif</image:loc></image:image>
+    <lastmod>2026-09-30</lastmod>
   </url>
 </urlset>

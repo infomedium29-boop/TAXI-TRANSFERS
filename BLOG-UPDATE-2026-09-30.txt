@@ -1,0 +1,10 @@
+Dodano 5 SEO blog vodiča na HR verziju:
+1. Međugradski Transferi sa Krka za Zagreb, Pulu, Rijeku
+2. Taxi Transfer od Krka do Zagreba – Zračna Luka
+3. Taxi Transfer od Krka do Venecije – Zračna Luka
+4. Taxi Transfer sa Krka do Trsta – Zračna Luka
+5. Taxi i Transferi sa Krka
+
+Naslovi H1 ostavljeni su identično prema zahtjevu vlasnika.
+Ažurirani su HR Blog, sitemap.xml, sitemap.txt i CSS za kartice/članke.
+Svaki članak ima canonical, BlogPosting + BreadcrumbList schema, interne linkove, FAQ, povezane vodiče i direktan CTA na booking formu.

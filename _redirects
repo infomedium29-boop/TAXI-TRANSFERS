@@ -165,3 +165,10 @@
 /pl/taxi-punat.html /pl/taxi-punat 301
 /pl/taxi-vrbnik.html /pl/taxi-vrbnik 301
 /pl/taxi-klimno.html /pl/taxi-klimno 301
+
+# Blog posts – canonical extensionless URLs
+/hr/blog/medjugradski-transferi-sa-krka-zagreb-pula-rijeka.html /hr/blog/medjugradski-transferi-sa-krka-zagreb-pula-rijeka 301
+/hr/blog/taxi-transfer-krk-zagreb-zracna-luka.html /hr/blog/taxi-transfer-krk-zagreb-zracna-luka 301
+/hr/blog/taxi-transfer-krk-venecija-zracna-luka.html /hr/blog/taxi-transfer-krk-venecija-zracna-luka 301
+/hr/blog/taxi-transfer-krk-trst-zracna-luka.html /hr/blog/taxi-transfer-krk-trst-zracna-luka 301
+/hr/blog/taxi-i-transferi-sa-krka.html /hr/blog/taxi-i-transferi-sa-krka 301
