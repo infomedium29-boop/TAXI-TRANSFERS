@@ -1100,6 +1100,11 @@ main, .hero, .subhero, .booking-wrap, .section, .site-footer { width: 100%; max-
 .price-table tbody tr:last-child td { border-bottom: 0; }
 .price-table tbody tr:hover td { background: rgba(245,158,11,.03); }
 .price-table td:first-child strong { font-size: 1.02rem; line-height: 1.4; }
+.tariff-time { display: block; margin-top: 7px; color: #767f8b; font-size: .78rem; font-weight: 800; line-height: 1.35; letter-spacing: .02em; }
+.tariff-time-night { color: var(--orange-dark); }
+.night-tariff-row td { background: rgba(245,158,11,.035); }
+.night-tariff-row:hover td { background: rgba(245,158,11,.07) !important; }
+
 .price-stack { display: inline-flex; align-items: flex-end; gap: 10px; flex-direction: column; width: 100%; }
 .current-price { display: block; color: var(--ink); font-size: 1.26rem; font-weight: 850; line-height: 1.15; white-space: nowrap; }
 .anchor-price { display: inline-flex; flex-direction: column; align-items: flex-end; gap: 4px; padding: 8px 10px; border-radius: 14px; background: #f7f8fa; color: #66707d; line-height: 1.35; }
