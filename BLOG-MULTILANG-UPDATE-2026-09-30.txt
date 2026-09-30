@@ -1,0 +1,5 @@
+DODANO: prvih 5 blog članaka na EN, DE, SK i PL jeziku.
+HR naslovi ostaju identični vlasnikovom PDF-u.
+Dodani su lokalizirani SEO title/meta opisi, canonical i hreflang veze, BlogPosting schema, interne poveznice i booking CTA.
+Blog index stranice na EN/DE/SK/PL sada prikazuju svih 5 članaka.
+Sitemap XML/TXT ažurirani su sa svim jezičnim verzijama.
