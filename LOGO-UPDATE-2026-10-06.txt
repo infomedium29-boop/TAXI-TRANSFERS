@@ -1,0 +1,9 @@
+Taxi & Transfers Krk — logo update 2026-10-06
+
+- Replaced the visible brand logo across all HR/EN/DE/SK/PL pages.
+- Added new cache-safe AVIF and PNG logo files.
+- Updated Open Graph, Twitter, schema.org and sitemap logo references.
+- Generated favicon.ico plus 16, 32, 48, 96, 192 and 512 px PNG icons.
+- Updated Apple touch icon and web manifest.
+- Preserved transparent logo background in header/footer.
+- Reduced favicon cache duration so new icons become visible sooner after deploy.

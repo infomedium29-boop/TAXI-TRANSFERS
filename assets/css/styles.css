@@ -239,7 +239,7 @@ p { margin: 0 0 1rem; }
 .footer-grid { display: grid; grid-template-columns: 1.3fr .8fr .8fr 1fr; gap: 50px; }
 .footer-brand { max-width: 340px; }
 .footer-brand .brand { color: #fff; margin-bottom: 20px; }
-.footer-brand .brand img { background: #fff; }
+.footer-brand .brand img { background: transparent; filter: drop-shadow(0 5px 12px rgba(0,0,0,.28)); }
 .footer-title { margin: 0 0 18px; color: #fff; font-size: .92rem; font-weight: 800; text-transform: uppercase; letter-spacing: .09em; }
 .footer-links { display: grid; gap: 10px; }
 .footer-links a:hover { color: var(--orange-2); }
@@ -689,8 +689,9 @@ main, .hero, .subhero, .booking-wrap, .section, .site-footer { width: 100%; max-
   width: 50px;
   height: 50px;
   flex: 0 0 50px;
-  background: #fff;
-  box-shadow: 0 5px 18px rgba(0,0,0,.16);
+  background: transparent;
+  box-shadow: none;
+  filter: drop-shadow(0 5px 12px rgba(0,0,0,.20));
 }
 
 .site-header .brand-text strong { color: inherit; }

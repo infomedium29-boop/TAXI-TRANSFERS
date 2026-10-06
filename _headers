@@ -1,15 +1,15 @@
 
 /favicon.ico
-  Cache-Control: public, max-age=86400
+  Cache-Control: public, max-age=300, must-revalidate
 
-/favicon-512.png
-  Cache-Control: public, max-age=86400
+/favicon-*.png
+  Cache-Control: public, max-age=300, must-revalidate
 
 /apple-touch-icon.png
-  Cache-Control: public, max-age=86400
+  Cache-Control: public, max-age=300, must-revalidate
 
 /site.webmanifest
-  Cache-Control: public, max-age=86400
+  Cache-Control: public, max-age=300, must-revalidate
 /sitemap.xml
   Content-Type: application/xml; charset=UTF-8
   Cache-Control: public, max-age=0, must-revalidate
