@@ -1,0 +1,6 @@
+BLOG UPDATE – 20.10.2026.
+
+Dodan 6. blog: Taxi Transfer sa Krka do Ljubljane.
+Objavljen na HR, EN, DE, SK i PL verziji.
+Dodani: zasebni URL-ovi, canonical + hreflang, BlogPosting/Breadcrumb schema, kartice na blog stranicama, interne poveznice, FAQ, CTA i sitemap zapisi.
+Hrvatski H1 ostavljen identično prema vlasnikovom popisu.
