@@ -1,1 +1,1 @@
-SERP thumbnail SEO update: set logo-taxi-transfers-new.avif as preferred image across OG tags, WebPage primaryImageOfPage, TaxiService image, Organization logo, twitter/image meta, image_src, itemprop=image, and sitemap image entries.
+SERP/logo update 2026-10-06: Taxi & Transfers Krk now uses logo-taxi-transfers-krk-2026.png as the preferred search/social/schema image and logo-taxi-transfers-krk-2026.avif for on-page display. A complete favicon set was generated from the same transparent logo.
