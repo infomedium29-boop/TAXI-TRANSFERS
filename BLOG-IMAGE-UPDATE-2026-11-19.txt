@@ -1,0 +1,1 @@
+Updated blog 8 feature and hero images in HR/EN/DE/SK/PL to use rijeka-airport-transfer.avif for better topic relevance. No layout/CSS/logo changes.
